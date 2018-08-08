@@ -1,0 +1,9 @@
+"silly",
+"gross",
+"money",
+"relationship",
+"positiveHard",
+"negativeAbility",
+"positiveAbility",
+"negativePhysical",
+"positivePhysical"
